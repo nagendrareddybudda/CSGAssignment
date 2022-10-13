@@ -1,0 +1,2 @@
+Count of Char starting with "B" are 0
+Words are having length 5 are NagendraReddy
